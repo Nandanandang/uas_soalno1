@@ -1,0 +1,4 @@
+
+<p style="color: black; font-size: 25px; background-color:white;">PT. BLACK SKY adalah PT yang bergerak dibidang perkebunan teh, pt ini berlokasikan di Kabupaten Kepahiyang Provinsi Bnegkulu
+        Di depan perkebunan berdiri pabrik seluas satu hektare yang hampir seluruh bangunannya masih asli dibuat pada zaman kolonial Belanda tahun 1925. objek agrowisata perkebunan teh peninggalan Belanda yang terletak di Kabupaten Kepahiang Provinsi Bengkulu.Objek agrowisata kabawetan memiliki luas 360.000 hektar. Di perkebunan teh kabawetan pengunjung dapat melihat para pemetik bekerja pada Pagi hari, dapat melihat proses pembuatan teh, dan dapat meminum teh yang telah disediakan oleh pengelola.Kebun teh kabawetan juga mempunyai pabrik teh yang hasil produksi nya sudah menembus pasar. Wisata agrowisata ini bisa menjadi media pembelajaran bagi anak-anak tentang pengolahan teh.
+      </p>
